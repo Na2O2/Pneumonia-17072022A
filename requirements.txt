@@ -2,7 +2,6 @@ Flask==2.0.3
 keras==2.6.0
 numpy==1.19.5
 opencv-python-headless
-opencv_contrib_python==4.6.0.66
 Pillow==8.4.0
 scikit_image==0.17.2
 Werkzeug==2.0.3
